@@ -8,4 +8,4 @@ $ pip2 install mechanize
 $ pip2 install request
 $ git clone https://github.com/dizline/VIP_DarkFB
 $ cd VIP_DarkFB
-$ python2 VIP_DarkFB
+$ python2 Vip_DarkFB
